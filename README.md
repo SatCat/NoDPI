@@ -4,6 +4,12 @@
   </p>
 </div>
 
+### New GLM-5 vibecoding code
+- Add DoH
+- Add socks5 server (--socks5-host, --socks5-port params)  
+
+
+
 # NoDPI
 <b><i>Say NO to blocking!</b></i>
 
